@@ -28,6 +28,8 @@ namespace Calculation
         private static bool flagZnak = false;
         private static bool flagZapataya = false;
         private static bool flagNumber = false;
+        private static bool flag = false;
+
 
         private double calc()
         {
